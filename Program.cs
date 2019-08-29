@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DefaultForVSCode
+namespace TicTacToe
 {
     
     class Program
