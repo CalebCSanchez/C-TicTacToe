@@ -13,6 +13,8 @@ Also allows me to easily clone certain configurations I want.
     * ./DefaultForVSCode.csproj to ./YourProjectName.csproj
 
     * namespace DefaultForVSCode to namespace YourProjectName
+    
+    *In launch.json "program": change DefaultForVSCode.dll to YourProjectName.dll
 
 # Basic Info for Help
 
